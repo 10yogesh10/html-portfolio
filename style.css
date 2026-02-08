@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d3ceec;
+  margin: 0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  background-color: #a4ddec;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid black;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+ul {
+  padding-left: 20px;
+}
